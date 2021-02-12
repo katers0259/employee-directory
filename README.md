@@ -12,7 +12,7 @@ MIT
 
 # Links
 https://github.com/katers0259/employee-directory
-
+https://katers0259.github.io/employee-directory/
 
 
 # Images
