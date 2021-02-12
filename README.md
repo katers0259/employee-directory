@@ -12,6 +12,8 @@ MIT
 
 # Links
 https://github.com/katers0259/employee-directory
+
+# Deployed App
 https://katers0259.github.io/employee-directory/
 
 
